@@ -1,0 +1,23 @@
+allround//0,allround/Player,allround/Country,allround/Mat,allround/Inns,allround/Runs,allround/Avg,allround/Overs,allround/Wkts,allround/Avg_Bowl,allround/Ca,allround/Rating
+  ,Player,Country,Mat,Batting,Bowling,Ca,Rating*,,,,
+Inns,Runs,Avg,Overs,Wkts,Avg,,,,,,
+1,Mohammad Hafeez*,Pakistan,119,108,2514,26.46,207.1,61,22.38,30,4.09
+2,Shoaib Malik*,ICC World XI,124,111,2435,31.22,95,28,24.11,50,7.11
+3,Shakib Al Hasan*,Bangladesh,109,107,2243,23.12,397.3,128,21.22,25,1.90
+4,G J Maxwell*,Australia,98,90,2159,28.41,144.1,39,27.59,41,0.82
+5,Mahmudullah*,Bangladesh,121,113,2122,23.58,140.5,38,26.63,46,-3.05
+6,K J O'Brien*,Ireland,110,103,1973,21.22,152.5,58,19.81,40,1.40
+7,Mohammad Nabi*,Afghanistan,104,96,1686,21.08,324.4,84,28.27,54,-7.20
+8,K A Pollard*,West Indies,101,83,1569,25.31,142.4,42,28.29,43,-2.98
+9,Shahid Afridi,ICC World XI,99,91,1416,17.92,361.2,98,24.45,30,-6.52
+10,H H Pandya*,India,87,67,1271,25.42,223.5,69,26.43,44,-1.01
+11,Sikandar Raza*,Zimbabwe,66,63,1259,20.98,141,38,26.66,28,-5.67
+12,D J Bravo*,West Indies,91,74,1255,22.02,250.5,78,26.10,44,-4.09
+13,N L T C Perera*,ICC World XI,84,74,1204,23.15,183.4,51,33.67,30,-10.51
+14,C O Obuya*,Kenya,52,48,1111,29.24,65.2,25,18.08,28,11.16
+15,R P Burl*,Zimbabwe,58,53,882,25.94,114,39,21.36,29,4.58
+16,G H Dockrell*,Ireland,115,70,842,20.05,256.2,81,22.63,55,-2.58
+17,P M Seelaar*,Netherlands,77,46,591,17.38,188.4,58,22.24,32,-4.86
+18,D J G Sammy,West Indies,68,52,587,17.26,152.4,44,25.36,31,-8.10
+19,M J Santner*,New Zealand,83,56,530,17.10,286.2,91,22.21,31,-5.11
+* All Rounder Rating = Batting Average - Bowling Average,,,,,,,,,,,
