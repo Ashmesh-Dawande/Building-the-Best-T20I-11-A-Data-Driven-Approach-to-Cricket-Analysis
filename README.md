@@ -3,7 +3,7 @@
 Data Collection: Collect data from various sources such as ESPNcricinfo, Cricbuzz,Howzstat etc using Brightdata.
 Data Cleaning: Clean the collected data and remove irrelevant or inconsistent data.
 Data Analysis: Analyze the data using statistical techniques to identify patterns and trends in player. Analyzing different attributes for a batsmen,bowler and all rounder. 
-Best T20I 11 Selection: Use the predictive model and other data-driven insights to build the best T20I 11 team.
+Best T20I 11 Selection: Use data-driven insights to build the best T20I 11 team.
 Deliverables:
 
 A report on the project outlining the methodology, findings, and recommendations for building the best T20I 11 team.
